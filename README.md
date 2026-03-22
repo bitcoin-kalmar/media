@@ -1,4 +1,4 @@
-# Bitcoin Kalmat Media Repository
+# Bitcoin Kalmar Media Repository
 - FLyer
 - Meet-Ups
 - Artefacts
